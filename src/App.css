@@ -1,0 +1,7 @@
+/* App.css - Using TailwindCSS for all styling */
+.App {
+  @apply min-h-screen bg-gray-50;
+}
+
+/* Any component-specific overrides can be added here if needed */
+
